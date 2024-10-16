@@ -85,7 +85,7 @@ Avant tout :
 ## 3. Lecture, écriture de fichiers
 
 - Pikachu gagne des attaques !
-  Ecris *'Attaques : Thunder shock, Spark'* dans le fichier `pikachu.txt`
+  Avec Notepad, écris *'Attaques : Thunder shock, Spark'* dans le fichier `pikachu.txt`
   <details>
     <summary>solution</summary>
 
