@@ -94,7 +94,7 @@ Avant tout :
     nano pikachu.txt
     ```
     -> on tape le texte 'Attaques : Thunder shock, Spark'  
-    -> on fait `Crtl + S` pour sauvegarder  
+    -> on fait `Ctrl + S` pour sauvegarder  
     -> on fait `Ctrl + X` pour quitter  
 
   </details> 
