@@ -5,7 +5,13 @@ Si besoin tu peux aller voir le [recap du cours](./recap-terminal.md) ;)
 Avant tout : 
 
 - Ouvre un terminal
-- Vas dans le répertoire `/var/www/html`
+- Vas dans le répertoire `~/DWA/S01`
+- **Si ce répertoire n'existe pas**, créer un dossier `DWA` dans `student` et un dossier `S01` dans `DWA`
+  - `cd`
+  - `mkdir DWA`
+  - `cd DWA`
+  - `mkdir S01`
+  - `cd S01`
 
 ## 1. Création de répertoires
 
