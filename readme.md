@@ -90,13 +90,12 @@ Avant tout :
     <summary>solution</summary>
 
     ```bash 
-    # Ouvrir le fichier dans l'éditeur nano
-    nano pikachu.txt
+    # Ouvrir le fichier dans l'éditeur notepad
+    notepad pikachu.txt
     ```
     -> on tape le texte 'Attaques : Thunder shock, Spark'  
-    -> on fait `Crtl + X` pour sortir  
-    -> on tape `Y` pour sauvegarder  
-    -> on appuie sur `Entrée` pour quitter  
+    -> on fait `Crtl + S` pour sortir  
+    -> on ferme Notepad
 
   </details> 
 
